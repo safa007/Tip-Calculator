@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/BGPYU' title='Tip Calculator Demo' width='' alt='Tip Calculator Demo' />
+<img src='https://i.imgur.com/bc1YcQB.gif' title='Tip Calculator Demo' width='' alt='Tip Calculator Demo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
